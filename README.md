@@ -2,4 +2,4 @@
 
 making the computer do art beep boop
 
-using (https://github.com/ojack/hydra)[hydra]
+using [hydra](https://github.com/ojack/hydra)
